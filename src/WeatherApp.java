@@ -14,7 +14,7 @@ public class WeatherApp {
         JSONObject weatherData = null;
         try {
             String firstPartURL = "https://api.openweathermap.org/data/2.5/weather?q=";
-            String secondPartURL = "&appid=f9884e6582f4354fa59b8d0a6975b48a"; //Enter your api key here
+            String secondPartURL = "&appid=MYAPIkey"; //Enter your api key here
             String encodedCityName = URLEncoder.encode(cityName, "UTF-8");
             String theURL = firstPartURL + encodedCityName + secondPartURL;
             URL url = new URL(theURL);
