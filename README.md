@@ -5,7 +5,7 @@
 
 
 # Overview
-The Weather App is a Java application that provides a graphical user interface (GUI) for retrieving and displaying current weather information for any city. It uses the OpenWeatherMap API to fetch weather data and displays temperature, humidity, wind speed, and weather conditions with corresponding icons.
+The Weather App is a Java application that provides a graphical user interface (GUI) for retrieving and displaying current weather information for any city. It uses the OpenWeatherMap API to fetch weather data and displays temperature, humidity, wind speed, and weather conditions with corresponding icons. Used Object Oriented programming principles.
 
 **Resources Used**
 - java
