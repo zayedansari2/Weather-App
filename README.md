@@ -1,5 +1,6 @@
 # WeatherApp
-<img width="361" alt="image" src="https://github.com/zayedansari2/WeatherApp/assets/174281840/1d506973-2727-4ee8-9027-8a3d65e3380c">
+<img width="361" alt="image" src="https://github.com/zayedansari2/Weather-App---Java/assets/174281840/8c1fa95e-c782-418e-b16f-2bbbf9d32387">
+
 
 
 
