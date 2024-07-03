@@ -13,8 +13,8 @@ public class WeatherApp {
     public static JSONObject CityWeather(String cityName) throws Exception {
         JSONObject weatherData = null;
         try {
-            String firstPartURL = "https://api.openweathermap.org/data/2.5/weather?q=";
-            String secondPartURL = "&appid=MYAPIkey"; //Enter your api key here
+            String firstPartURL = "weathersourcelink";
+            String secondPartURL = "apikeyforthesource"; //Enter your api key here
             String encodedCityName = URLEncoder.encode(cityName, "UTF-8");
             String theURL = firstPartURL + encodedCityName + secondPartURL;
             URL url = new URL(theURL);
