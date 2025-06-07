@@ -1,3 +1,5 @@
 config/apiKey.txt
 .vscode/
 bin/
+lib/
+
